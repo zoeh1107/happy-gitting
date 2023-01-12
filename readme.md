@@ -9,4 +9,5 @@
   `git commit -am "<describe what did your do>"`
 * push edits back to gh!  
   `git push`
-  
+
+committed  
